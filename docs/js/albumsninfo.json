@@ -1,0 +1,14 @@
+{
+    "TDSOTM":{
+        "img":"./img/TDSOTM.jpg",
+        "name":"The Dark Side of the Moon (1973)"
+    },
+    "PATGOD":{
+        "img":"./img/PATGOD.jpg",
+        "name":"Piper at the Gates of Dawn (1967)"
+    },
+    "WYWH":{
+        "img":"./img/WYWH.jpg",
+        "name":"Wish You Were Here (1975)"
+    }
+}
