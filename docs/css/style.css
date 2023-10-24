@@ -27,4 +27,29 @@ html {
 .container {
     margin-left: auto;
     margin-right: auto;
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-gap: 20px;
+}
+.background {
+  color: #3498db;
+}
+a {
+  text-decoration: none;
+  color: #e74c3c;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+/* Modo Claro */
+body {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Modo Oscuro */
+.dark-mode {
+  background-color: #333;
+  color: #fff;
 }
